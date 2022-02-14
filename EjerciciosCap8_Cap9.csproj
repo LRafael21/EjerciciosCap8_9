@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <Resource Include="./Resources/HomeWork.png"/>
+  <Resource Include="./Resources/HomeWorkBackground.jpg" />
+  <Resource Include ="./Cap8_Ejercicio5./ResourcesCap8/bloques.png"/>
+  </ItemGroup>
+
+</Project>
