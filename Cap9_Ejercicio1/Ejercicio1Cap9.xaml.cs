@@ -13,9 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-/*Hacer un programa que le solicite al
-usuario dos cadenas y luego las muestre
-en orden alfabético.*/
+/*Crear una estructura para guardar los
+productos de una tienda.*/
 
 
 namespace EjerciciosCap8_Cap9.Cap9_Ejercicio1
